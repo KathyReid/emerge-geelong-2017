@@ -1,10 +1,12 @@
 # Emerge Geelong 2017
 
-Speaker: Kathy Reid <kathy@kathyreid.com.au>
-Timeslot: TBA
-Duration: 5 minutes
-Slides: nil
-Electronic material to link to: https://www.cleverism.com/18-best-idea-generation-techniques/
+* Speaker: Kathy Reid <kathy@kathyreid.com.au>
+* Timeslot: TBA
+* Duration: 5 minutes
+* Slides: nil
+* Electronic material to links:
+  ** https://www.cleverism.com/18-best-idea-generation-techniques/
+  ** https://www.interaction-design.org/literature/article/introduction-to-the-essential-ideation-techniques-which-are-the-heart-of-design-thinking
 
 # IDEA NATION: How this country is built on ideas, and how you can do it too.
 
@@ -38,12 +40,23 @@ Right, so we have cold beer in summer and dry clothes in winter, but what about 
 
 Well that's exactly the problem that Lewis Bandt solved, when he designed the first Ute at Geelong's Ford plant here in the 1930s.
 
-Can you imagine life now without cold bear, dry clothes and a way to get around with all your tools? I know I can't!
+Can you imagine life now without cold beer, dry clothes and a way to get around with all your tools? I know I can't!
 
 ## Ideation techniques you can use at home
 
-Each of the ideas - refrigeration, the Hills Hoist, the Ute - emerged in Geelong (!). If you're lacking for ideas, there's many techniques to generate them. We've used something called *REVERSE THINKING* here to think what life would be like without some common ideas and inventions, but there are many others. You will have heard of *BRAINSTORMING* and *DAY DREAMING*, but there are many others - *STORY BOARDING*, *MIND MAPPING* and so on.
+Each of the ideas - refrigeration, the Hills Hoist, the Ute - emerged in Geelong (!).
 
-And with them, you can create your *own* alternate reality ;-)
+If you're lacking for ideas, there's many techniques to generate them.
+
+### Reverse thinking
+We've used something called *REVERSE THINKING* here to think what life would be like without some common ideas and inventions, and this is a really great technique for thinking about how you want a situation to be different from how it is now.
+
+### Brainstorming and daydreaming
+You will have heard of *BRAINSTORMING* and *DAY DREAMING*, but there are many others.
+
+### Story boarding and mind mapping
+With *STORY BOARDING* and *MIND MAPPING* you can explore new ideas and the connections between them.
+
+Todd has linked some more information up, and with this you can create your *own* alternate reality ;-)
 
 Thank you
